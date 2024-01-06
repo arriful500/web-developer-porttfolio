@@ -1,0 +1,9 @@
+.nav-tittle{
+  display: flex;
+}
+.r{
+  color: #FD6E0A;;
+}
+nav > ul{
+  display: flex;
+}
