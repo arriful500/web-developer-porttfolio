@@ -1,9 +1,45 @@
-.nav-tittle{
-  display: flex;
+body {
+  font-family: font-family: 'Lato', sans-serif;
 }
-.r{
-  color: #FD6E0A;;
-}
-nav > ul{
+
+nav {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.r {
+  color: #FD6E0A;
+
+}
+
+nav>ul {
+  display: flex;
+  align-items: center;
+}
+
+nav a {
+  text-decoration: none;
+
+}
+
+.button-primary {
+  width: 150px;
+  height: 64px;
+  background-color: #FD6E0A;
+  border: none;
+  color: #FFF;
+  font-size: 20px;
+  font-weight: 700;
+
+}
+
+ul>li {
+  margin-right: 50px;
+  list-style: none;
+  color: #474747;
+ 
+ 
+
 }
